@@ -1,2 +1,2 @@
 #Matthew Gilman
-print "Hello World"
+print "Hello Mars!"
